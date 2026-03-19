@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I’m Cherifa 👋
 
-<!--
-**cherifa2446/cherifa2446** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Software Engineering Student at ÉTS  
+💻 I build personal projects in software, web, and mobile development  
+🚀 I enjoy creating concrete projects to learn, experiment, and grow  
 
-Here are some ideas to get you started:
+## Featured Personal Projects
+- **MEDIQ** – Analysis system designed to detect medication errors
+- **Eden3D** – Website developed for a landscaping business
+- **AMC-2025 / SurvivalKit** – Mobile application developed during a hackathon in an emergency scenario
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technical Skills
+**Languages and technologies:** Java, C, JavaScript, SQL, HTML, CSS, React Native, Expo, REST API, JSON, MySQL, Pep/8, Python  
+**Tools:** Git, GitHub, Android Studio, VS Code, Eclipse, Cursor
