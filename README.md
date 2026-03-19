@@ -14,6 +14,6 @@
 **Tools:** Git, GitHub, Android Studio, VS Code, Eclipse, Cursor
 
 ## Contact
-📫**Personal email:** cherifa_mihoub@yahoo.ca
+📫 Personal email: tonemailici@email.com  
 🔗 LinkedIn: [Cherifa Mihoub](https://www.linkedin.com/in/cherifamihoub)
 
