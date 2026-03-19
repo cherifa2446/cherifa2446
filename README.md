@@ -12,3 +12,8 @@
 ## Technical Skills
 **Languages and technologies:** Java, C, JavaScript, SQL, HTML, CSS, React Native, Expo, REST API, JSON, MySQL, Pep/8, Python  
 **Tools:** Git, GitHub, Android Studio, VS Code, Eclipse, Cursor
+
+## Contact
+📫**Personal email:** cherifa_mihoub@yahoo.ca
+🔗 LinkedIn: [Cherifa Mihoub](https://www.linkedin.com/in/cherifamihoub)
+
